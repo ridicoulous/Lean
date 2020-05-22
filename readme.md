@@ -145,11 +145,7 @@ For Linux users:
 sudo apt-get update && apt-get install -y r-base && apt-get install -y pandoc && apt-get install -y libcurl4-openssl-dev
 ```
 For Windows and macOs users:
-Please visit the official [R website](https://www.r-project.org/) to download R. 
-
-### QuantConnect Visual Studio Plugin
-
-For more information please see the QuantConnect Visual Studio Plugin [Documentation][8]
+Please visit the official [R website](https://www.r-project.org/) to download R.
 
 ## Issues and Feature Requests ##
 
